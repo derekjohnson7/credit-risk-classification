@@ -2,7 +2,7 @@
 
 **Overview of the Analysis:**
 
-The purpose of this analysis is to develop a machine learning model to predict whether a loan is healthy (label `0`) or high-risk (label `1`). This model can help the company assess the risk associated with each loan application, aiding in decision-making processes regarding loan approval.
+The purpose of this analysis is to develop a machine learning model to predict whether a loan is healthy (label 0) or high-risk (label 1). This model can help the company assess the risk associated with each loan application, aiding in decision-making processes regarding loan approval.
 
 **Results:**
 - Accuracy Score: 0.99
